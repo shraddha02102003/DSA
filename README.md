@@ -3,14 +3,14 @@ These are coding questions focused on Data Structure and Algorithm (DSA) that ar
 
 <b>Topics Covered:</b>
 <br>
-Array Problems
+1)Array Problems
 <br>
-Number Problems
+2)Number Problems
 <br>
-Number System Problems
+3)Number System Problems
 <br>
-Sorting Problems
+4)Sorting Problems
 <br>
-String Problems
+5)String Problems
 <br>
 The solutions are provided in C++ and Python.
