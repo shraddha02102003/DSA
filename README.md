@@ -1,5 +1,5 @@
 # DSA
-These are coding questions focused on Data Structure and Algorithm (DSA) that are frequently asked in company interviews.
+These are coding questions focused on Data Structure and Algorithm (DSA) that are frequently asked in many company assessment and interviews.
 
 <b>Topics Covered:</b>
 <br>
